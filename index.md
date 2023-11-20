@@ -3,3 +3,8 @@
 ### This is h3 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Add code snippet:
+```
+print("Hello, World!")
+```
