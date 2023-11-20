@@ -8,3 +8,7 @@ Add code snippet:
 ```
 print("Hello, World!")
 ```
+My todos:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
